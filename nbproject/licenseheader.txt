@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}MIT 
+${licensePrefix}Educational Purporse UCA 2018
+<#if licenseLast??>
+${licenseLast}
+</#if>
